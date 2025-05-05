@@ -1,0 +1,13 @@
+groq==0.24.0
+jsonpatch==1.33
+jsonpointer==3.0.0
+jsonschema==4.23.0
+jsonschema-specifications==2025.4.1
+langchain==0.3.25
+langchain-core==0.3.58
+langchain-groq==0.3.2
+langchain-text-splitters==0.3.8
+langsmith==0.3.42
+numpy==2.2.5
+pandas==2.2.3
+python-dotenv==1.1.0
